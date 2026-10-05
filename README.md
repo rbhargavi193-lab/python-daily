@@ -6,6 +6,7 @@ One small Python project per day. Learning in public.
 | Day | Project | Description |
 |-----|---------|-------------|
 | 01 | hello.py | Ask name, say hello |
+| 02 | guess.py | Number guessing game|
 
 ## How to run
 python day01/hello.py
