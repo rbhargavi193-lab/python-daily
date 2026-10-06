@@ -10,7 +10,10 @@ One small Python project per day. Learning in public.
 | 03 | temp_converter.py| Celsius to Fahrenheit converter|
 
 ## How to run
+
+```
 python day01/hello.py
+```
 
 ## Requirements
 Python 3.10+
