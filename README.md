@@ -8,6 +8,7 @@ One small Python project per day. Learning in public.
 | 01 | hello.py | Ask name, say hello |
 | 02 | guess.py | Number guessing game|
 | 03 | temp_converter.py| Celsius to Fahrenheit converter|
+| 04 | day04/todo.py | To-do list in terminal |
 
 ## How to run
 
