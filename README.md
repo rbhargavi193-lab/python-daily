@@ -9,6 +9,7 @@ One small Python project per day. Learning in public.
 | 02 | guess.py | Number guessing game|
 | 03 | temp_converter.py| Celsius to Fahrenheit converter|
 | 04 | todo.py | To-do list in terminal |
+| 05 | password_gen.py | Random password generator |
 
 ## How to run
 
