@@ -11,6 +11,7 @@ One small Python project per day. Learning in public.
 | 04 | todo.py | To-do list in terminal |
 | 05 | password_gen.py | Random password generator |
 | 06 | rps.py | Rock paper scissors game |
+| 07 | word_counter.py | Word counter, top words, ignore list |
 
 ## How to run
 
