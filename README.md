@@ -13,7 +13,7 @@ One small Python project per day. Learning in public.
 | 06 | rps.py | Rock paper scissors game |
 | 07 | word_counter.py | Word counter, top words, ignore list |
 | 08 | calculator.py | Calculator with functions |
-
+| 09 | quiz.py | Python quiz game |
 ## How to run
 
 ```
