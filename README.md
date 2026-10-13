@@ -14,6 +14,7 @@ One small Python project per day. Learning in public.
 | 07 | word_counter.py | Word counter, top words, ignore list |
 | 08 | calculator.py | Calculator with functions |
 | 09 | quiz.py | Python quiz game |
+|10  |base_convertor.py| base convetor|
 ## How to run
 
 ```
