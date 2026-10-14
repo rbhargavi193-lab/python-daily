@@ -15,6 +15,7 @@ One small Python project per day. Learning in public.
 | 08 | calculator.py | Calculator with functions |
 | 09 | quiz.py | Python quiz game |
 |10  |base_convertor.py| base convetor|
+| 11 |dice.py  |dice game|
 ## How to run
 
 ```
