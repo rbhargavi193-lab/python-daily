@@ -16,7 +16,7 @@ One small Python project per day. Learning in public.
 | 09 | quiz.py | Python quiz game |
 |10  |base_convertor.py| base convetor|
 | 11 |dice.py  |dice game|
-|12   coin.py  |coin game|
+|12   |coin.py  |coin game|
 ## How to run
 
 ```
