@@ -18,6 +18,7 @@ One small Python project per day. Learning in public.
 | 11 |dice.py  |dice game|
 |12  |coin.py  |coin game|
 |13 |times_table.py|times table|
+|14 |even_odd.py|even odd finder|
 # How to run
 
 ```
