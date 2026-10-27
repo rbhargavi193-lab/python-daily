@@ -20,6 +20,7 @@ One small Python project per day. Learning in public.
 |13 |times_table.py|times table|
 |14 |even_odd.py|even odd finder|
 |15| interest.py|interest |
+|16| bmi.py| bmi|
 # How to run
 
 ```
