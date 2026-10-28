@@ -21,6 +21,7 @@ One small Python project per day. Learning in public.
 |14 |even_odd.py|even odd finder|
 |15| interest.py|interest |
 |16| bmi.py| bmi|
+|17|grade.py|percentage|
 # How to run
 
 ```
