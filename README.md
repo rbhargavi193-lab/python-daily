@@ -22,6 +22,7 @@ One small Python project per day. Learning in public.
 |15| interest.py|interest |
 |16| bmi.py| bmi|
 |17|grade.py|percentage|
+|18|palindrome.py|palindrome|
 # How to run
 
 ```
