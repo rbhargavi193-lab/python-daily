@@ -23,6 +23,7 @@ One small Python project per day. Learning in public.
 |16| bmi.py| bmi|
 |17|grade.py|percentage|
 |18|palindrome.py|palindrome|
+|19|vowels.py|vowels|
 # How to run
 
 ```
