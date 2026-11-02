@@ -25,6 +25,7 @@ One small Python project per day. Learning in public.
 |18|palindrome.py|palindrome|
 |19|vowels.py|vowels|
 |20|countdown.py|countdown|
+|21|atm.py|atm|
 # How to run
 
 ```
